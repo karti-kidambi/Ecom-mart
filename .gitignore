@@ -1,0 +1,13 @@
+# Root .gitignore for EcomMart monorepo
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+target/
+**/target/
+.idea/
+.vscode/
+*.local
+.env
+.env*.local
+*.log
